@@ -1,0 +1,48 @@
+/* Center align the button */
+.my-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Adjust button height and width */
+#login,
+#sign-up {
+    height: 40px; /* Updated height */
+    width: 120px; /* Updated width */
+    background-color: #10a37f;
+    color: white;
+    margin: 10px;
+}
+
+/* Center align the container */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+
+/* Center align the logo */
+#logo {
+    height: 80px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Center align the body */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh; /* Updated height to 100vh */
+    text-align: center;
+    margin: 0;
+    background-color: #1a1a1a;
+    color: white;
+}
+.class-101{
+
+}
